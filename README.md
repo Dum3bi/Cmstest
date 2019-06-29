@@ -1,2 +1,2 @@
 # Cmstest
-Repo to test HTML5 site Netlify CMS Integration
+Repo to test Netlify CMS 
