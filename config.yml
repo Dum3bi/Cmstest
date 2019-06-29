@@ -1,5 +1,6 @@
-backend: github
-name: Dum3bi/Cmstest
+backend:
+  name: github
+  repo: Dum3bi/Cmstest
 
 media_folder: media_folder
 
